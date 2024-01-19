@@ -12,4 +12,5 @@ for x in arr:
     print(x)
     if x == 5:
         print('yes, it have 5 ')
-        break
+    elif x == 3:
+        print('its 3 this time')
